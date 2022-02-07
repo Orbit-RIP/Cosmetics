@@ -1,0 +1,184 @@
+mongo:
+  host: "localhost"
+  port: 27017
+  database: "Cosmetics"
+owner:
+  contents:
+    helmet:
+      color: "MAROON"
+    chestplate:
+      color: "MAROON"
+    leggings:
+      color: "MAROON"
+    boots:
+      color: "MAROON"
+developer:
+  contents:
+    helmet:
+      color: "LIME"
+    chestplate:
+      color: "TEAL"
+    leggings:
+      color: "PURPLE"
+    boots:
+      color: "ORANGE"
+platform-admin:
+  contents:
+    helmet:
+      color: "RED"
+    chestplate:
+      color: "RED"
+    leggings:
+      color: "RED"
+    boots:
+      color: "RED"
+head-admin:
+  contents:
+    helmet:
+      color: "RED"
+    chestplate:
+      color: "RED"
+    leggings:
+      color: "RED"
+    boots:
+      color: "RED"
+senior-admin:
+  contents:
+    helmet:
+      color: "RED"
+    chestplate:
+      color: "RED"
+    leggings:
+      color: "RED"
+    boots:
+      color: "RED"
+admin:
+  contents:
+    helmet:
+      color: "RED"
+    chestplate:
+      color: "RED"
+    leggings:
+      color: "RED"
+    boots:
+      color: "RED"
+senior-mod:
+  contents:
+    helmet:
+      color: "TEAL"
+    chestplate:
+      color: "TEAL"
+    leggings:
+      color: "TEAL"
+    boots:
+      color: "TEAL"
+mod+:
+  contents:
+    helmet:
+      color: "PURPLE"
+    chestplate:
+      color: "PURPLE"
+    leggings:
+      color: "PURPLE"
+    boots:
+      color: "PURPLE"
+mod:
+  contents:
+    helmet:
+      color: "NAVY"
+    chestplate:
+      color: "NAVY"
+    leggings:
+      color: "NAVY"
+    boots:
+      color: "NAVY"
+trial-mod:
+  contents:
+    helmet:
+      color: "TEAL"
+    chestplate:
+      color: "TEAL"
+    leggings:
+      color: "TEAL"
+    boots:
+      color: "TEAL"
+partner:
+  contents:
+    helmet:
+      color: "FUCHSIA"
+    chestplate:
+      color: "FUCHSIA"
+    leggings:
+      color: "FUCHSIA"
+    boots:
+      color: "FUCHSIA"
+famous:
+  contents:
+    helmet:
+      color: "ORANGE"
+    chestplate:
+      color: "ORANGE"
+    leggings:
+      color: "ORANGE"
+    boots:
+      color: "ORANGE"
+youtube:
+  contents:
+    helmet:
+      color: "FUCHSIA"
+    chestplate:
+      color: "FUCHSIA"
+    leggings:
+      color: "FUCHSIA"
+    boots:
+      color: "FUCHSIA"
+media:
+  contents:
+    helmet:
+      color: "PURPLE"
+    chestplate:
+      color: "PURPLE"
+    leggings:
+      color: "PURPLE"
+    boots:
+      color: "PURPLE"
+flame:
+  contents:
+    helmet:
+      color: "ORANGE"
+    chestplate:
+      color: "ORANGE"
+    leggings:
+      color: "ORANGE"
+    boots:
+      color: "ORANGE"
+reaper:
+  contents:
+    helmet:
+      color: "GREEN"
+    chestplate:
+      color: "GREEN"
+    leggings:
+      color: "GREEN"
+    boots:
+      color: "GREEN"
+sun:
+  contents:
+    helmet:
+      color: "YELLOW"
+    chestplate:
+      color: "YELLOW"
+    leggings:
+      color: "YELLOW"
+    boots:
+      color: "YELLOW"
+blaze:
+  contents:
+    helmet:
+      color: "RED"
+    chestplate:
+      color: "RED"
+    leggings:
+      color: "RED"
+    boots:
+      color: "RED"

@@ -1,0 +1,7 @@
+name: Cosmetics
+version: 1.0
+main: rip.heat.cosmetics.Cosmetics
+depend:
+  - Proton
+  - Nebula
+  - Hub
